@@ -1,0 +1,3 @@
+LIBRARY "DtSmithWilson"
+EXPORTS
+smith_wilson_engineXL=smith_wilson_engine
